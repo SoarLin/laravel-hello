@@ -3,6 +3,7 @@
         Options -MultiViews
     </IfModule>
 
+	RewriteBase /~soar/laravel-hello/public
     RewriteEngine On
 
     # Redirect Trailing Slashes...
